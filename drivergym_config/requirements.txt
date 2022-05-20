@@ -1,0 +1,8 @@
+numpy>=1.20
+tf-estimator-nightly==2.8.0.dev2021122109
+folium==0.2.1
+imgaug<0.2.7,>=0.2.5
+opencv-python-headless==4.1.2.30
+
+# maybe a previous version will also work
+typing-extensions-4.2.0
